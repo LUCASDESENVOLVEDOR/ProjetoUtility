@@ -8,6 +8,11 @@ Projeto de classe C# para abrir conexões com o BD de forma mais prática.
   <add key="default" value="Data Source=servidor;Initial Catalog=basededados;User ID=usuario;Password=senha" />
   </appSettings>
 ```
-
-## Deixar a Key como "default".
+    djangogirls
+    └─── blog
+         └─── static
+              └─── css
+                   └─── blog.css
+    
+# Deixar a Key como "default".
 
